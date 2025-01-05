@@ -1,4 +1,4 @@
-#Future-Prediction-of-Production-of-oil-and-gas-DCA
+
 Decline curve analysis examines the relationship between the oil flow rate and time for wells in production.
 Decline curves can follow Exponential, Hyperbolic, or Harmonic patterns.
 A line was fitted to the production data, with the assumption that the identified trend will persist in the future.
